@@ -1,0 +1,4 @@
+#Sun Nov 17 20:00:01 BRT 2019
+base.0=/home/ruann/projetos/Flutter_calculador_imc/calculadora_imc/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
